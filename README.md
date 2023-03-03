@@ -1,6 +1,6 @@
 # Overview
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It contains a NodeJS API lambda and a Rust lambda
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It contains a NodeJS API lambda and a [Rust](https://www.rust-lang.org/) lambda using the [Rust community runtime](https://vercel.com/docs/concepts/functions/serverless-functions/runtimes#community-runtimes)
 
 This works using Vercel CLI 28.16.7. Before I was on a lower 28.x.x. I forget the Xs but major number was definitely 28 and the app wouldn't deploy with the Rust lambda.
 
